@@ -1,0 +1,19 @@
+<html>
+<head>
+<title><\tilte>
+<\head>
+<body>
+<fieldset>
+<legend>personaldetails<\legend>
+<formaction=method="post">
+Username<input type="text"><br>
+Password<input type="password"><br>
+Gender<input type="radio"name"gender"value="male">Male
+<input type="radio""gender"value="female">Female
+<input type="Button"name="OK"value="Ok">
+<\form>
+<\fieldset>
+<\center>
+<\body>
+<\html>
+
